@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCLearning.Tests", "MVCLea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMusicStore", "MvcMusicStore\MvcMusicStore.csproj", "{D696861F-9A51-4538-B297-DEA7F60A1AEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularUpload", "AngularUpload\AngularUpload.csproj", "{A412A7BA-CE82-4DC1-94E6-7E6471C68317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularMVCFileUpload", "AngularMVCFileUpload\AngularMVCFileUpload.csproj", "{AD814E1D-9BD6-4436-82BC-901D6210DFE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularFileUpload", "AngularFileUpload\AngularFileUpload.csproj", "{A355047A-B6F8-4ACB-9413-9F3634A52A48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,18 @@ Global
 		{D696861F-9A51-4538-B297-DEA7F60A1AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D696861F-9A51-4538-B297-DEA7F60A1AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D696861F-9A51-4538-B297-DEA7F60A1AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A412A7BA-CE82-4DC1-94E6-7E6471C68317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A412A7BA-CE82-4DC1-94E6-7E6471C68317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A412A7BA-CE82-4DC1-94E6-7E6471C68317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A412A7BA-CE82-4DC1-94E6-7E6471C68317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD814E1D-9BD6-4436-82BC-901D6210DFE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD814E1D-9BD6-4436-82BC-901D6210DFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD814E1D-9BD6-4436-82BC-901D6210DFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD814E1D-9BD6-4436-82BC-901D6210DFE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A355047A-B6F8-4ACB-9413-9F3634A52A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A355047A-B6F8-4ACB-9413-9F3634A52A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A355047A-B6F8-4ACB-9413-9F3634A52A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A355047A-B6F8-4ACB-9413-9F3634A52A48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
